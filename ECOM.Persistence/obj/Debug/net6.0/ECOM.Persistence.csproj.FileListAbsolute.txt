@@ -1,0 +1,15 @@
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\bin\Debug\net6.0\ECOM.Persistence.deps.json
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\bin\Debug\net6.0\ECOM.Persistence.dll
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\bin\Debug\net6.0\ECOM.Persistence.pdb
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\bin\Debug\net6.0\ECOM.Domain.dll
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\bin\Debug\net6.0\ECOM.Domain.pdb
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.csproj.AssemblyReference.cache
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.AssemblyInfoInputs.cache
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.AssemblyInfo.cs
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.csproj.CopyComplete
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.dll
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\refint\ECOM.Persistence.dll
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ECOM.Persistence.pdb
+C:\Users\ssaxena\source\repos\ECOM.API\ECOM.Persistence\obj\Debug\net6.0\ref\ECOM.Persistence.dll
